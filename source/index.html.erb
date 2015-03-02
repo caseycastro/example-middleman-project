@@ -1,0 +1,7 @@
+<h1>Home page!</h1>
+
+<h2>Articles</h2>
+
+<% blog.articles.each do |a| %>
+	<%= partial :homepage_article, :locals => { article: a } %>
+<% end %>
