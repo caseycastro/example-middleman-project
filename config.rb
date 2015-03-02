@@ -4,6 +4,7 @@ activate :blog do |b|
 end
 
 activate :directory_indexes
+activate :i18n
 
 configure :build do
   activate :minify_css
