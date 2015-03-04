@@ -1,7 +1,7 @@
 ---
 title: Article Two
 published: true
-tempate: two_column_with_images
+template: two_column_with_images
 image_1: /images/image1.png
 image_2: /images/image2.png
 ---
